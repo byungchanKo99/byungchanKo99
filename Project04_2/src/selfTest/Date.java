@@ -1,4 +1,4 @@
-package selfTest;
+package Project04_2.src.selfTest;
 
 public class Date {
 

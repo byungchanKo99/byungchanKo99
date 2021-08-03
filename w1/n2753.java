@@ -1,3 +1,5 @@
+package w1;
+
 import java.util.Scanner;
 public class n2753{
     public static void main(String[] args){
