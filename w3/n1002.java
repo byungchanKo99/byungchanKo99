@@ -12,7 +12,9 @@ public class n1002 {
             if(r1 == r2){
                 result = -1;
             }
-            else{result = 0;}
+            else{
+                result = 0;
+            }
         }
         else if(r1 + r2 == distance){ // 외접
             result = 1;

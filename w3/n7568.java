@@ -10,9 +10,9 @@ public class n7568 {
         int[] w = new int[c];
         int[] r = new int[c];
         for(int i = 0; i < c; i++){
-            h[i] = sc.nextInt();
-            w[i] = sc.nextInt();
-            r[i] = 1;
+            h[i] = sc.nextInt();// 키
+            w[i] = sc.nextInt();// 몸무게
+            r[i] = 1;// 순위
         }
         for(int i = 0; i < c; i++){ // i번째부터 등수 매기기
             for(int j = 0; j < c; j++ ){ // 전체 순회
